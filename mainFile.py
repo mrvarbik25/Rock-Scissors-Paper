@@ -1,9 +1,4 @@
-<<<<<<< HEAD:mainFile.py
 #tic-tac-toe
-=======
-# game rock scissors paper
-
->>>>>>> 17e4f933e70739e90ff411e67cb3426444c1a12e:main.py
 import random
 import userClass
 REWARDS = ["Sensei", "Master", "Voodoo", "Magician", "Predictor"]
